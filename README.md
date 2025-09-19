@@ -8,6 +8,9 @@ The system ensures that answers are **strictly derived from the uploaded PDFs**,
 > "This question is not related to the uploaded PDFs."  
 when asked something outside the context.
 
+## How It Works
+<img width="2684" height="1489" alt="image" src="https://github.com/user-attachments/assets/30dc8198-c80d-4a54-b0be-c9a68161e317" />
+
 ---
 
 ## ✨ Features
