@@ -1,4 +1,4 @@
-# 📚 Chat with Multiple PDFs (RAG + Streamlit + OpenAI)
+# 📚 Chat with Multiple PDFs (RAG + Streamlit + LLM)
 
 ## 🚀 Overview
 This project is an **AI-powered PDF Q&A application** built with **Streamlit, LangChain, OpenAI, and FAISS**.  
@@ -47,8 +47,8 @@ when asked something outside the context.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/chat-with-pdfs.git
-cd chat-with-pdfs
+git clone https://github.com/harsha-chichu/Talk-To-PDF.git
+cd Talk-To-PDF
 ```
 
 ### 2. Create a virtual environment
@@ -92,7 +92,7 @@ streamlit run app.py
 ## 👤 Author
 **Harsha Vardhan**  
 AI Engineer | Researcher | Builder of practical AI tools  
-🔗 [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)
+🔗 [LinkedIn](https://www.linkedin.com/in/harsha-vardhan12/) | [GitHub](https://github.com/harsha-chichu)
 
 ---
 
